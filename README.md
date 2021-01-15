@@ -3,3 +3,6 @@
 
 - [x] Grabación de sonido.
 - [x] Reproducción de sonido.
+- [x] Cambiar activity.
+- [x] Paso de información entre activity.
+- [x] Imagenes.
